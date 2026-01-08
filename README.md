@@ -113,7 +113,12 @@ Time-of-day segmentation shows:
 ## Final Note
 This project simulates a real-world analytics engagement, demonstrating how SQL can be used to transform raw transaction data into strategic business insight.
 
+---
 
+## Contact
+**Author:** Hemang Chaudhary
+
+**[LinkedIn](https://www.linkedin.com/in/hemangchaudhary)**
 
 
 
